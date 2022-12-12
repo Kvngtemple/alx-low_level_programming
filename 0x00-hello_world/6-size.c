@@ -2,7 +2,6 @@
 
 /**
  * main - Entry point
- * @void: parameter
  * Return: Always 0
  */
 
